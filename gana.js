@@ -10,13 +10,13 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "Tu Hai Kaha", filePath: "1.mp3",coverPath: "covers/10.jpg" },
-    {songName: "kaisa Te Ishq Hai", filePath: "2.mp3",coverPath: "covers/1.jpg" },
+    {songName: "Ishq Risk", filePath: "2.mp3",coverPath: "covers/1.jpg" },
     {songName: "O'Sajana", filePath: "3.mp3",coverPath: "covers/2.jpg" },
-    {songName: "Sajana (Badshah)", filePath: "4.mp3",coverPath: "covers/3.jpg" },
+    {songName: "Sajana-Bad", filePath: "4.mp3",coverPath: "covers/3.jpg" },
     {songName: "Long Drive", filePath: "5.mp3",coverPath: "covers/4.jpg" },
     {songName: "Admirin'You", filePath: "6.mp3",coverPath: "covers/5.jpg" },
     {songName: "Mere Liye", filePath: "7.mp3",coverPath: "covers/6.jpg" },
-    {songName: "Tumse Kiran Dhup", filePath: "8.mp3",coverPath: "covers/7.jpg" },
+    {songName: "Tumse Kiran", filePath: "8.mp3",coverPath: "covers/7.jpg" },
     {songName: "Falak Tak", filePath: "9.mp3",coverPath: "covers/8.jpg" },
     {songName: "Saudebaazi", filePath: "10.mp3",coverPath: "covers/9.jpg" },
 ]
